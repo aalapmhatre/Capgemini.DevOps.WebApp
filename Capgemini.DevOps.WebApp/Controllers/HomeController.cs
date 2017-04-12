@@ -14,7 +14,7 @@ namespace Capgemini.DevOps.WebApp.Controllers
         /// <returns></returns>
         public ActionResult Index()
         {
-            return View();
+            return View();4
         }
 
         public ActionResult About()
