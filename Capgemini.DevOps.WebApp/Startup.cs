@@ -12,7 +12,7 @@ namespace Capgemini.DevOps.WebApp
         /// <param name="app"></param>
         public void Configuration(IAppBuilder app)
         {
-            ConfigureAuth(app);123
+            ConfigureAuth(app);
         }
     }
 }
